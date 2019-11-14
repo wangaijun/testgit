@@ -1,0 +1,6 @@
+[submodule "testsubmodule1"]
+	path = testsubmodule1
+	url = https://github.com/wangaijun/testsubmodule1.git
+[submodule "testsubmodule2"]
+	path = testsubmodule2
+	url = https://github.com/wangaijun/testsubmodule2.git
